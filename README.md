@@ -1,9 +1,6 @@
-# Emotion-Based Visitor Guidance System
-
-**Author:** Anuroop Arya
-
 # AI-Powered Emotion Recognition System
 
+**Author:** Anuroop Arya
 ## Overview
 
 Engineered an advanced emotion recognition system using Convolutional Neural Networks (CNNs) to classify facial expressions into seven categories. The system employs state-of-the-art deep learning technologies to enhance user experience through precise emotion detection.
@@ -42,8 +39,8 @@ Display: Emotion labels are overlaid on the video feed, indicating the detected 
 Feel free to fork this repository and submit pull requests. For any issues or improvements, please open an issue in the project's GitHub repository.
 
  ```bash
-   git clone https://github.com/mylifeasAnuroop/Surveillance-System-for-Suspicious-Activity-V8.git
-   cd Surveillance-System-for-Suspicious-Activity-V8
+   git clone https://github.com/mylifeasAnuroop/FaceInsight-AI-Powered-Emotion-Recognition-for-User-Experience
+   cd FaceInsight-AI-Powered-Emotion-Recognition-for-User-Experience
  ```
 
 ## Real-World Applications
