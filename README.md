@@ -35,7 +35,7 @@ Face Detection: The script uses Haar Cascades to detect faces in real-time video
 Emotion Classification: Detected face regions are preprocessed and classified using the pre-trained CNN model.
 Display: Emotion labels are overlaid on the video feed, indicating the detected emotion.
 
-##Contributing
+## Contributing
 Feel free to fork this repository and submit pull requests. For any issues or improvements, please open an issue in the project's GitHub repository.
 
  ```bash
