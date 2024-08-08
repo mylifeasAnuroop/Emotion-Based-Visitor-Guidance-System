@@ -3,7 +3,7 @@
 **Author:** Anuroop Arya
 ## Overview
 
-Engineered an advanced emotion recognition system using Convolutional Neural Networks (CNNs) to classify facial expressions into seven categories. The system employs state-of-the-art deep learning technologies to enhance user experience through precise emotion detection.
+Engineered an advanced emotion recognition system using Convolutional Neural Networks (CNNs) to classify facial expressions into seven categories. Leveraged deep learning libraries such as Keras for model building and optimization. Trained on a dataset of 28,821 images with extensive data augmentation techniques. Employed optimization algorithms including Adam, SGD, and RMSprop to enhance model accuracy, achieving a 70% accuracy rate. Utilized Matplotlib, Seaborn, and Pandas for data visualization and analysis. This project demonstrates the application of state-of-the-art technologies in Human-Computer Interaction (HCI), enhancing user experience through precise emotion detection
 
 ## Technologies Used
 
